@@ -80,10 +80,15 @@ me.say_hi()
 
 🧩 LeetCode Journey
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ishan1923?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/ishan1923">
+    <img src="https://leetcard.jacoblin.cool/ishan1923?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats"/>
+  </a>
 </div>
 <div align="center">
-  <img src="https://leetcode.card/ishan1923?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Activity"/>
+  <img src="https://leetcard.jacoblin.cool/ishan1923?theme=dark&font=nunito&ext=contest" alt="LeetCode Contest Stats"/>
+</div>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ishan1923?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Heatmap"/>
 </div>
 
 ---

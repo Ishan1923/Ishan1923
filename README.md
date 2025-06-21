@@ -14,8 +14,9 @@ I'm a passionate developer who loves building innovative solutions and bringing 
 class Ishan:
     def __init__(self):
         self.name = "Ishan"
-        self.role = "Full-Stack Developer"
+        self.role = "Electronics and Computer Science Student & Aspiring Robotics Backend Developer"
         self.languages = ["Python", "C++", "JavaScript", "C#"]
+        self.status = "Learning, Building, Growing 🌱"
         self.technologies = {
             "backend": ["Django", "REST API", "WebSockets"],
             "frontend": ["HTML", "CSS", "JavaScript"],

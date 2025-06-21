@@ -77,6 +77,18 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan1923&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+
+🧩 LeetCode Journey
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ishan1923?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</div>
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ishan1923&theme=dark" alt="LeetCode Problem Stats"/>
+</div>
+<div align="center">
+  <img src="https://leetcode.card/ishan1923?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Activity"/>
+</div>
+
 ---
 
 ## 🎯 Current Goals

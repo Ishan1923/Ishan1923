@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ishan+Pathak; Hi There👋&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I%20am%20Ishan%20Pathak;Hi%20There%F0%9F%91%8B&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </div>
+
 
 ---
 

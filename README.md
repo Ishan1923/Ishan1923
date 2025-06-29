@@ -1,14 +1,12 @@
-# Hi there! 👋 I'm Ishan
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Python+Enthusiast;C%2B%2B+Developer;Unity+Game+Developer;API+Architect;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ishan+Pathak; Hi There👋&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and bringing ideas to life! My journey spans across multiple domains, from web development to game creation.
+I'm a passionate developer who loves building innovative solutions and bringing ideas to life! My journey spans across edgeAI, embedded systems and deep Neural Networks; (also - game-dev, web-dev) .
 
 ```python
 class Ishan:

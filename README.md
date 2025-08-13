@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ishan+Pathak+%F0%9F%91%8B;A+passionate+Robotics+%26+ML+developer." alt="Typing Animation">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=I%20am%20Ishan%20Pathak;Hi%20There%F0%9F%91%8B&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+
 </div>
 
 ---

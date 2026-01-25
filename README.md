@@ -15,31 +15,14 @@ I am an Electronics & Communication student at **Thapar Institute**, passionate 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishan1923&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan1923&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ishan1923/Ishan1923/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
 ### Tech Stack
 
 | **Languages** | **Frameworks & Libraries** | **Technologies & Tools** | **Development Boards** |
 | :---: | :---: | :---: | :---: |
 | **C++** (ROS 2) | ROS 2 (Rolling) | Git & GitHub | Raspberry Pi 4 |
-| Python | TensorFlow / PyTorch | Linux (Pop!_OS) | STM32 / Arduino |
-| C# | OpenCV | Docker | ESP32 |
-| SQL | Pandas & NumPy | CMake | NVIDIA Jetson |
+| Python | TensorFlow / PyTorch | Linux | STM32 / Arduino |
+| C# | OpenCV | Django | ESP32 |
+| SQL | Pandas & NumPy | CMake | OS |
 
 ---
 

@@ -31,19 +31,7 @@ Loves building; interests- **Robotics, Machine Learning, Game Development, IoT, 
 ---
 
 <div align="center">
-
-[![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan1923&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan1923&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishan1923&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://raw.githubusercontent.com/Ishan1923/Ishan1923/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---

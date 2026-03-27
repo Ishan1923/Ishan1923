@@ -14,4 +14,4 @@ I am passionate about building autonomous systems, optimizing workflows or just 
 | **C++** (ROS 2) | ROS 2 (Rolling) | Git & GitHub | Raspberry Pi 4 |
 | Python | TensorFlow / PyTorch | Linux | STM32 / Arduino |
 | C# | OpenCV | CMake | ESP32 |
-| SQL | Pandas & NumPy | Django | |
+| SQL | Pandas & NumPy | Django | Jetson Nano|

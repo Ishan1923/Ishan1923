@@ -1,17 +1,30 @@
-### About Me
+## About Me
 
-I am passionate about building autonomous systems, optimizing workflows or just building for fun.
+I am a software engineer interested in building efficient software, intelligent systems, and hardware-integrated applications.
 
-* **Interests:** Robotics, Embedded Systems, AI/ML.
-* **Current Focus:** Deepening knowledge of C++ for real-time control systems, ROS2, Systems Engineering, Algorithms.
+- **Interests:** Software Engineering, Backend Systems, Embedded Firmware, Physical AI, Generative AI.
+- **Current Focus:** C++, Systems Programming, Backend Development, ROS 2, Embedded Systems, and LLM-powered applications.
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-| **Languages** | **Frameworks & Libraries** | **Technologies & Tools** | **Development Boards** |
+| **Languages** | **Backend & Systems** | **AI Engineering** | **Tools & Platforms** |
 | :---: | :---: | :---: | :---: |
-| **C++** (ROS 2) | ROS 2 (Rolling) | Git & GitHub | Raspberry Pi 4 |
-| Python | TensorFlow / PyTorch | Linux | STM32 / Arduino |
-| C# | OpenCV | CMake | ESP32 |
-| SQL | Pandas & NumPy | Django | Jetson Nano|
+| C++ | Django | Pydantic | Linux |
+| Python | REST APIs | LLM APIs | Git & GitHub |
+| C# | Python Microservices | Prompt Engineering | Docker |
+| SQL | System Programming | Structured Outputs | CMake |
+|JAVA | FastAPI | Function / Tool Calling | |
+
+### AI & Machine Learning
+
+LLM Integration · Embeddings · RAG Fundamentals · Agentic Workflows · TensorFlow · PyTorch · OpenCV · NumPy · Pandas · ComputerVision Algorithms
+
+### Embedded Systems & Robotics
+
+ROS 2 · Firmware Development · Hardware Abstraction · Sensor Integration · Actuator Control · PID Control · IMU · I2C · SPI · UART
+
+### Development Platforms
+
+ESP32 · STM32 · Arduino · Raspberry Pi 4 · Jetson Nano
